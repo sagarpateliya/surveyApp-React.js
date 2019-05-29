@@ -1,0 +1,10 @@
+.surveyCircle {
+  border: 5px solid black;
+  height: 70px;
+  width: 70px;
+  border-radius: 50px;
+  float: left;
+  margin-left: 10%;
+  margin-top: 50px;
+  float: left;
+}

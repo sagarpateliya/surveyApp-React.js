@@ -1,0 +1,7 @@
+.surveyQuestion{
+    border:1px solid black;
+    height:300px;
+    width:100%;
+    color:black;
+    text-align: center;
+}
